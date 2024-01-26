@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cheakmin
-- 👀 I’m interested in UI/UX, Web development, Product development and also graphic design! 
-- 🌱 I’m currently learning how to use frameworks and Ai! 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in UI/UX and Product Management! 
+<!--- 🌱 I’m currently learning how to use frameworks and Ai! --->
+<!---- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me: cheakmin94@gmail.com
 
 <!---
